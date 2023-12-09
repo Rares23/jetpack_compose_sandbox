@@ -1,13 +1,8 @@
 # Jetpack Compose Sandbox
 
-This is a sandbox project where I'm testing all kinds of android jetpack compose libs, views and
-other
-things.
-
-## Getting Started
-
-I will split all my experiments in specific flows (data/domain/ui - for each case).
-Bellow you will find all the flows that I will test and you can extract them if you like.
+This is a sandbox project where I'm testing and experimenting all kinds of interesting android 
+jetpack compose libs, concepts, and other functionalities. You can explore the list of features
+that is implemented and extract whatever you need.
 
 ## Flows
 
